@@ -1,0 +1,10 @@
+mail
+gmail
+hotmail
+yahoo
+bing
+ciencias
+live
+microsoft
+apple
+ibm
