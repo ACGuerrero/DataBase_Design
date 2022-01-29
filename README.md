@@ -11,11 +11,11 @@ Both DDL (data definition language) and DML (data manipulation language) are use
 
 ## Entity Relationship diagram
 <p align="center">
-<img src="./diagrams/ER_diagram.jpg" width="500" height="300" />
+<img src="./diagrams/ER_diagram.jpg" width="625" height="375" />
 </p>
 
 ## Unified Modeling Language diagram
 
 <p align="center">
-<img src="./diagrams/UML_diagram.jpg" width="500" height="300" />
+<img src="./diagrams/UML_diagram.jpg" width="625" height="375" />
 </p>
